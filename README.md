@@ -1,10 +1,12 @@
 # recenter.py
 recenter image on the go inside terminal
 
-Prerequisites
+# Prerequisites
+
 This script requires `Python 3` and the `Pillow` library.
 
 To install Pillow, run:
+
 `pip install Pillow`
 
 # Usage
