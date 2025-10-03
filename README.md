@@ -46,14 +46,4 @@ Set the background using individual Red, Green, and Blue values (0-255). Missing
 python3 recentre.py -i input.png -o output_purple.png -w 1200 -hi 600 -R 128 -B 128
 ```
 
-#### input
-![original image](test.png)
-
-```bash
-python3 recenter.py -i test.png -o recenter_test.png -w 1920 -hi 1080
-```
-
-### output
-![recentered image](recenter_test.png)
-
 
