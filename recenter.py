@@ -38,7 +38,7 @@ def convert_image_geometry(input_path: str,
                            output_path: str,
                            width: int,
                            height: int,
-                           color: str | tuple):
+                           color: ColorInput):
 
     try:
         source_img = Image.open(input_path).convert("RGBA")
